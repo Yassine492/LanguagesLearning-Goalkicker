@@ -1,5 +1,7 @@
-GoalKeeper : https://books.goalkicker.com/
+GoalKeeper: https://books.goalkicker.com/
 
-Link : https://books.goalkicker.com/RubyBook/
+Link to the Ruby Book: https://books.goalkicker.com/RubyBook/
 
-Learned notions : 
+New learned concepts:  
+
+Project: 
